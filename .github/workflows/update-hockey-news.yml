@@ -33,5 +33,6 @@ jobs:
             echo "News snapshot did not change."
           else
             git commit -m "Refresh fantasy hockey news"
+            git pull --rebase origin main
             git push
           fi
