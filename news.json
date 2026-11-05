@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-11-05T03:40:29.440607Z",
+  "generated_at": "2026-11-05T11:35:24.089664Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError"
+      "ok": true,
+      "items": 3
     },
     {
       "name": "r/fantasyhockey",
@@ -14,6 +13,24 @@
     }
   ],
   "items": [
+    {
+      "source": "r/fantasyhockey",
+      "title": "Daily Team Advice Thread - Thu, November 5, 2026",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xoexhi/daily_team_advice_thread_thu_november_5_2026/",
+      "published": "2026-11-05T10:05:20Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "PuckWatch: Thursday, Nov 5",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xoeuu7/puckwatch_thursday_nov_5/",
+      "published": "2026-11-05T10:00:53Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "Quel est selon vous le meilleur site de hockey au Québec pour 2027",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo8u6b/quel_est_selon_vous_le_meilleur_site_de_hockey_au/",
+      "published": "2026-11-05T03:50:46Z"
+    },
     {
       "source": "r/fantasyhockey",
       "title": "Thanks Yahoo",
@@ -31,12 +48,6 @@
       "title": "Little game - name that player!",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo4gqg/little_game_name_that_player/",
       "published": "2026-11-05T00:17:55Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Brandt Clarke, McJesus, and Werenski. 3 of a kind.",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo41xj/brandt_clarke_mcjesus_and_werenski_3_of_a_kind/",
-      "published": "2026-11-05T00:00:15Z"
     },
     {
       "source": "r/fantasyhockey",
@@ -88,12 +99,6 @@
     },
     {
       "source": "r/fantasyhockey",
-      "title": "Rank missing for free agents on Yahoo?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xnm6vj/rank_missing_for_free_agents_on_yahoo/",
-      "published": "2026-11-04T11:48:30Z"
-    },
-    {
-      "source": "r/fantasyhockey",
       "title": "Daily Team Advice Thread - Wed, November 4, 2026",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xnkgtc/daily_team_advice_thread_wed_november_4_2026/",
       "published": "2026-11-04T10:05:07Z"
@@ -103,12 +108,6 @@
       "title": "PuckWatch: Wednesday, Nov 4",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xnkecx/puckwatch_wednesday_nov_4/",
       "published": "2026-11-04T10:00:53Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Jackson Blake",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xngv44/jackson_blake/",
-      "published": "2026-11-04T06:15:29Z"
     },
     {
       "source": "r/fantasyhockey",
@@ -133,6 +132,24 @@
       "title": "[Russo] Brock Faber (skull fracture) has essentially been cleared to return to play and now it's just upping his fitness on a daily basis",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xn26dp/russo_brock_faber_skull_fracture_has_essentially/",
       "published": "2026-11-03T19:14:14Z"
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "What We Learned in Week 5 of Fantasy Hockey Streamers continue to be the difference between wins and losses, goalies are still voodoo, and owning Flames is suddenly a...",
+      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-5-of-fantasy-hockey",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 6",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-6",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "According to the Numbers: Week 5 – Fantasy Hockey Pickups, Drops, Sell-Highs & Buy-Lows",
+      "url": "https://www.dailyfaceoff.com/news/according-to-the-numbers-week-5-fantasy-hockey-pickups-drops-sell-highs-buy-lows",
+      "published": ""
     }
   ]
 }
