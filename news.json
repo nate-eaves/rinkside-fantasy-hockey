@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-11-04T23:26:58.730358Z",
+  "generated_at": "2026-11-05T03:40:29.440607Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError"
     },
     {
       "name": "r/fantasyhockey",
@@ -13,6 +14,30 @@
     }
   ],
   "items": [
+    {
+      "source": "r/fantasyhockey",
+      "title": "Thanks Yahoo",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo8bqf/thanks_yahoo/",
+      "published": "2026-11-05T03:24:52Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "Logan Thompson",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo8a54/logan_thompson/",
+      "published": "2026-11-05T03:22:43Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "Little game - name that player!",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo4gqg/little_game_name_that_player/",
+      "published": "2026-11-05T00:17:55Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "Brandt Clarke, McJesus, and Werenski. 3 of a kind.",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xo41xj/brandt_clarke_mcjesus_and_werenski_3_of_a_kind/",
+      "published": "2026-11-05T00:00:15Z"
+    },
     {
       "source": "r/fantasyhockey",
       "title": "Rasmus Andresson",
@@ -99,57 +124,15 @@
     },
     {
       "source": "r/fantasyhockey",
-      "title": "When will Pohlkamp be added to Yahoo?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xn6sit/when_will_pohlkamp_be_added_to_yahoo/",
-      "published": "2026-11-03T22:09:13Z"
-    },
-    {
-      "source": "r/fantasyhockey",
       "title": "Dougie Hamilton",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xn6b91/dougie_hamilton/",
       "published": "2026-11-03T21:50:15Z"
     },
     {
       "source": "r/fantasyhockey",
-      "title": "Stuart Skinner - any hope for the season?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xn3e33/stuart_skinner_any_hope_for_the_season/",
-      "published": "2026-11-03T19:58:37Z"
-    },
-    {
-      "source": "r/fantasyhockey",
       "title": "[Russo] Brock Faber (skull fracture) has essentially been cleared to return to play and now it's just upping his fitness on a daily basis",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xn26dp/russo_brock_faber_skull_fracture_has_essentially/",
       "published": "2026-11-03T19:14:14Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Finnie/arvidsson/brandsegg",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xmjw90/finniearvidssonbrandsegg/",
-      "published": "2026-11-03T04:51:10Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Stuart Skinner Appreciation post",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xm4hg8/stuart_skinner_appreciation_post/",
-      "published": "2026-11-02T18:02:56Z"
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "What We Learned in Week 5 of Fantasy Hockey Streamers continue to be the difference between wins and losses, goalies are still voodoo, and owning Flames is suddenly a...",
-      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-5-of-fantasy-hockey",
-      "published": ""
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 6",
-      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-6",
-      "published": ""
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "According to the Numbers: Week 5 – Fantasy Hockey Pickups, Drops, Sell-Highs & Buy-Lows",
-      "url": "https://www.dailyfaceoff.com/news/according-to-the-numbers-week-5-fantasy-hockey-pickups-drops-sell-highs-buy-lows",
-      "published": ""
     }
   ]
 }
