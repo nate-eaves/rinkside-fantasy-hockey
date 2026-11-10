@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T12:20:27.009244Z",
+  "generated_at": "2026-11-10T19:56:24.948796Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
@@ -13,6 +13,12 @@
     }
   ],
   "items": [
+    {
+      "source": "r/fantasyhockey",
+      "title": "This was the waiver wire in one of my leagues today???",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xsta78/this_was_the_waiver_wire_in_one_of_my_leagues/",
+      "published": "2026-11-10T17:39:52Z"
+    },
     {
       "source": "r/fantasyhockey",
       "title": "Any reason why Woll didn’t get the win for yesterday?",
@@ -30,12 +36,6 @@
       "title": "PuckWatch: Tuesday, Nov 10",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xsj27e/puckwatch_tuesday_nov_10/",
       "published": "2026-11-10T10:00:53Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "What happens if you submit 4 waiver claims at the same time?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xsfkag/what_happens_if_you_submit_4_waiver_claims_at_the/",
-      "published": "2026-11-10T06:16:31Z"
     },
     {
       "source": "r/fantasyhockey",
@@ -86,12 +86,6 @@
       "published": "2026-11-09T19:11:10Z"
     },
     {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Blue Jackets’ Conor Garland out indefinitely with upper-body injury Some unwanted news for a team already experiencing enough struggles this season. When speaking to the media, Columbus Blue Jackets...",
-      "url": "https://www.dailyfaceoff.com/news/blue-jackets-conor-garland-out-indefinitely-with-upper-body-injury",
-      "published": "2026-11-09T19:00:55Z"
-    },
-    {
       "source": "r/fantasyhockey",
       "title": "Sketchy commish?",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xrylsh/sketchy_commish/",
@@ -110,12 +104,6 @@
       "published": "2026-11-09T16:40:57Z"
     },
     {
-      "source": "Daily Faceoff Fantasy",
-      "title": "What We Learned in Week 6 of Fantasy Hockey",
-      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-6-of-fantasy-hockey",
-      "published": "2026-11-09T16:24:40Z"
-    },
-    {
       "source": "r/fantasyhockey",
       "title": "Brandt Clarke",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xrugtz/brandt_clarke/",
@@ -126,12 +114,6 @@
       "title": "Commish weird request",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xru3qw/commish_weird_request/",
       "published": "2026-11-09T15:09:23Z"
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 7",
-      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-7",
-      "published": "2026-11-09T13:11:24Z"
     },
     {
       "source": "r/fantasyhockey",
@@ -150,6 +132,24 @@
       "title": "Fantasy Hockey Schedule and Streamers Summary - Week 7",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xr10x4/fantasy_hockey_schedule_and_streamers_summary/",
       "published": "2026-11-08T15:29:28Z"
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Blue Jackets’ Conor Garland out indefinitely with upper-body injury Some unwanted news for a team already experiencing enough struggles this season. When speaking to the media, Columbus Blue Jackets...",
+      "url": "https://www.dailyfaceoff.com/news/blue-jackets-conor-garland-out-indefinitely-with-upper-body-injury",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "What We Learned in Week 6 of Fantasy Hockey",
+      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-6-of-fantasy-hockey",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 7",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-7",
+      "published": ""
     }
   ]
 }
