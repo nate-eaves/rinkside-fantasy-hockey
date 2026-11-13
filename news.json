@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:26:00.542376Z",
+  "generated_at": "2026-11-13T21:31:09.309007Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
@@ -13,6 +13,18 @@
     }
   ],
   "items": [
+    {
+      "source": "r/fantasyhockey",
+      "title": "Gavin Mckenna",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xvjxwt/gavin_mckenna/",
+      "published": "2026-11-13T21:13:56Z"
+    },
+    {
+      "source": "r/fantasyhockey",
+      "title": "Would you pull your players for a meme",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xvcrj2/would_you_pull_your_players_for_a_meme/",
+      "published": "2026-11-13T16:42:56Z"
+    },
     {
       "source": "r/fantasyhockey",
       "title": "Waiver Wire Pickups and Top Streamers (Week 8)",
@@ -51,6 +63,12 @@
     },
     {
       "source": "r/fantasyhockey",
+      "title": "Robert Thomas",
+      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xusf9n/robert_thomas/",
+      "published": "2026-11-12T23:40:40Z"
+    },
+    {
+      "source": "r/fantasyhockey",
       "title": "Alexander Nikishin",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xunw0a/alexander_nikishin/",
       "published": "2026-11-12T20:33:05Z"
@@ -78,18 +96,6 @@
       "title": "1st Overall Pick Sympathy Post",
       "url": "https://www.reddit.com/r/fantasyhockey/comments/1xuhzao/1st_overall_pick_sympathy_post/",
       "published": "2026-11-12T16:54:24Z"
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Fantasy Hockey buys, sells and holds: Embrace Slafkovsky’s pattern Also: get Johnston, trade Stone, hold Raddysh and more.",
-      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-buy-low-sell-high-hold-advice-tips-johnston-seider-werenski-slafkovsky-raddysh-stone",
-      "published": "2026-11-12T15:00:00Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Daily Team Advice Thread - Thu, November 12, 2026",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xu8z8y/daily_team_advice_thread_thu_november_12_2026/",
-      "published": "2026-11-12T10:05:25Z"
     },
     {
       "source": "r/fantasyhockey",
@@ -128,27 +134,21 @@
       "published": "2026-11-12T00:53:02Z"
     },
     {
-      "source": "r/fantasyhockey",
-      "title": "Medium-owned players on PP1 (25-50% owned)🚨",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xtmu7p/mediumowned_players_on_pp1_2550_owned/",
-      "published": "2026-11-11T16:50:43Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Blackwood's \"Advice\" section on Yahoo is maybe the weirdest and most useless I ever read",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xtj010/blackwoods_advice_section_on_yahoo_is_maybe_the/",
-      "published": "2026-11-11T14:22:26Z"
-    },
-    {
       "source": "Daily Faceoff Fantasy",
-      "title": "Blue Jackets’ Conor Garland out indefinitely with upper-body injury",
-      "url": "https://www.dailyfaceoff.com/news/blue-jackets-conor-garland-out-indefinitely-with-upper-body-injury",
+      "title": "Fantasy Hockey buys, sells and holds: Embrace Slafkovsky’s pattern Also: get Johnston, trade Stone, hold Raddysh and more.",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-buy-low-sell-high-hold-advice-tips-johnston-seider-werenski-slafkovsky-raddysh-stone",
       "published": ""
     },
     {
       "source": "Daily Faceoff Fantasy",
       "title": "What We Learned in Week 6 of Fantasy Hockey",
       "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-6-of-fantasy-hockey",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 7",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-7",
       "published": ""
     }
   ]
