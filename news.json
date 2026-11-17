@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T13:29:29.988951Z",
+  "generated_at": "2026-11-17T21:52:55.314782Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
@@ -8,142 +8,23 @@
     },
     {
       "name": "r/fantasyhockey",
-      "ok": true,
-      "items": 20
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError"
     }
   ],
   "items": [
     {
-      "source": "r/fantasyhockey",
-      "title": "Daily Team Advice Thread - Tue, November 17, 2026",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xygnu3/daily_team_advice_thread_tue_november_17_2026/",
-      "published": "2026-11-17T10:05:05Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "PuckWatch: Tuesday, Nov 17",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xyglnz/puckwatch_tuesday_nov_17/",
-      "published": "2026-11-17T10:01:32Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "You hate to see it",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xy3bw9/you_hate_to_see_it/",
-      "published": "2026-11-16T22:28:14Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "What We Learned in Week 7 of Fantasy Hockey",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xy1sd9/what_we_learned_in_week_7_of_fantasy_hockey/",
-      "published": "2026-11-16T21:26:05Z"
-    },
-    {
       "source": "Daily Faceoff Fantasy",
       "title": "What We Learned in Week 7 of Fantasy Hockey Players are getting healthy, goalies are still voodoo, and Cutter Gauthier may never stop scoring. We are 48 days into...",
       "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-7-of-fantasy-hockey",
-      "published": "2026-11-16T20:48:33Z"
+      "published": ""
     },
     {
       "source": "Daily Faceoff Fantasy",
       "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 8",
       "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-8",
-      "published": "2026-11-16T18:39:42Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Who else got Wolled this morning?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xxpjg7/who_else_got_wolled_this_morning/",
-      "published": "2026-11-16T13:37:12Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Daily Team Advice Thread - Mon, November 16, 2026",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xxlnyb/daily_team_advice_thread_mon_november_16_2026/",
-      "published": "2026-11-16T10:05:22Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "PuckWatch: Monday, Nov 16",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xxllda/puckwatch_monday_nov_16/",
-      "published": "2026-11-16T10:00:53Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Yahoo fantasy player overview page",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xxi5p8/yahoo_fantasy_player_overview_page/",
-      "published": "2026-11-16T06:22:42Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Shane Pinto on PP1?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xx0twi/shane_pinto_on_pp1/",
-      "published": "2026-11-15T17:10:12Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Fantasy Hockey Schedule and Streamers Summary - Week 8",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwz2nd/fantasy_hockey_schedule_and_streamers_summary/",
-      "published": "2026-11-15T16:01:38Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Week 8 Goalie Adds Under 30% Rostered: Tarasov, Lyon, Woll",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwx8kk/week_8_goalie_adds_under_30_rostered_tarasov_lyon/",
-      "published": "2026-11-15T14:45:23Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "✂️ The Cut List - Time To Let Go?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwwl0h/the_cut_list_time_to_let_go/",
-      "published": "2026-11-15T14:17:00Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Week 8 schedule breakdown: no games Friday, 14 on Saturday, and only three quiet nights",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwum4w/week_8_schedule_breakdown_no_games_friday_14_on/",
-      "published": "2026-11-15T12:45:01Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Who is the absolute worst IRL player who is elite for fantasy?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwu9hb/who_is_the_absolute_worst_irl_player_who_is_elite/",
-      "published": "2026-11-15T12:26:48Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Logan stankoven",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwn2sk/logan_stankoven/",
-      "published": "2026-11-15T05:10:22Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Who is the best player who is just not that good for fantasy?",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwm0va/who_is_the_best_player_who_is_just_not_that_good/",
-      "published": "2026-11-15T04:11:58Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Barzal holders, sound off",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwjd52/barzal_holders_sound_off/",
-      "published": "2026-11-15T01:51:27Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Joel Farabee",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xwdsyv/joel_farabee/",
-      "published": "2026-11-14T21:27:58Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "MacKinnon out at least one month; Makar out approximately two weeks",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xw8hqy/mackinnon_out_at_least_one_month_makar_out/",
-      "published": "2026-11-14T17:46:27Z"
-    },
-    {
-      "source": "r/fantasyhockey",
-      "title": "Yahoo suggestions are not good.",
-      "url": "https://www.reddit.com/r/fantasyhockey/comments/1xw8901/yahoo_suggestions_are_not_good/",
-      "published": "2026-11-14T17:36:37Z"
+      "published": ""
     },
     {
       "source": "Daily Faceoff Fantasy",
