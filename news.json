@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-11-23T10:30:23.261402Z",
+  "generated_at": "2026-11-23T22:14:52.039919Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
-      "ok": true,
-      "items": 3
+      "ok": false,
+      "items": 0,
+      "error": "HTTPError"
     },
     {
       "name": "r/fantasyhockey",
@@ -13,24 +14,5 @@
       "error": "HTTPError"
     }
   ],
-  "items": [
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Fantasy Hockey Injury Replacements: Who to Add for MacKinnon, Bedard and Makar It’s been a tough week for fantasy hockey superstars. Last Thursday, Nathan MacKinnon and Cale Makar both got hurt in...",
-      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-injury-replacements-who-to-add-for-mackinnon-bedard-and-makar",
-      "published": ""
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "What We Learned in Week 7 of Fantasy Hockey",
-      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-7-of-fantasy-hockey",
-      "published": ""
-    },
-    {
-      "source": "Daily Faceoff Fantasy",
-      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 8",
-      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-8",
-      "published": ""
-    }
-  ]
+  "items": []
 }
