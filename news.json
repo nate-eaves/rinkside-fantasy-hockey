@@ -1,11 +1,10 @@
 {
-  "generated_at": "2026-11-23T22:14:52.039919Z",
+  "generated_at": "2026-11-24T06:09:15.568229Z",
   "sources": [
     {
       "name": "Daily Faceoff Fantasy",
-      "ok": false,
-      "items": 0,
-      "error": "HTTPError"
+      "ok": true,
+      "items": 3
     },
     {
       "name": "r/fantasyhockey",
@@ -14,5 +13,24 @@
       "error": "HTTPError"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "What We Learned in Week 8 of Fantasy Hockey St. Louis is exciting, players are still going down left and right, and rookies are stepping up with unexpectedly big...",
+      "url": "https://www.dailyfaceoff.com/news/what-we-learned-in-week-8-of-fantasy-hockey",
+      "published": "2026-11-23T19:22:46Z"
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Fantasy Hockey 2026-27: Weekly Strength of Schedule and Streaming Targets — Week 9",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-2026-27-weekly-strength-of-schedule-and-streaming-targets-week-9",
+      "published": ""
+    },
+    {
+      "source": "Daily Faceoff Fantasy",
+      "title": "Fantasy Hockey Injury Replacements: Who to Add for MacKinnon, Bedard and Makar",
+      "url": "https://www.dailyfaceoff.com/news/fantasy-hockey-injury-replacements-who-to-add-for-mackinnon-bedard-and-makar",
+      "published": ""
+    }
+  ]
 }
